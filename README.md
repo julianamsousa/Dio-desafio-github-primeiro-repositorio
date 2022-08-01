@@ -13,8 +13,8 @@ Desafio-de-projeto-Git/GitHub
 
 *Ciclo de vida*
 
-*Untracked
-*Tracked
-*Unmodified
-*Modified
-*Staged
+* Untracked
+* Tracked
+* Unmodified
+* Modified
+* Staged
