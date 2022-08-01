@@ -10,3 +10,11 @@ Desafio-de-projeto-Git/GitHub
 * Blobs
 * Trees
 * Commitis
+
+*Ciclo de vida*
+
+*Untracked
+*Tracked
+*Unmodified
+*Modified
+*Staged
